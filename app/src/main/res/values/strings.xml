@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidToaster</string>
+    <string name="tv_display_toast">Display Toast</string>
+</resources>
